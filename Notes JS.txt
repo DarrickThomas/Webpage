@@ -1,0 +1,32 @@
+Writing into an HTML element, using innerHTML.
+
+Writing into the HTML output using document.write().
+
+Writing into an alert box, using window.alert().
+
+Writing into the browser console, using console.log().
+To access an HTML element, 
+JavaScript can use the document.getElementById(id) method.
+
+The id attribute defines the HTML element. 
+The innerHTML property defines the HTML content:
+
+
+
+var	        Declares a variable
+let	        Declares a block variable
+const	    Declares a block constant
+if	        Marks a block of statements to be executed on a condition
+switch	    Marks a block of statements to be executed in different cases
+for	        Marks a block of statements to be executed in a loop
+function	Declares a function
+return	    Exits a function
+try	        Implements error handling to a block of statements
+
+Fixed values are called Literals. Literals
+Numbers and Strings 
+1+2=3       "One plus two equals three."
+
+Variable values are called Variables. Variables
+var, let, const declares values #step 1
+The "equal to" operator is written like == in JavaScript.
